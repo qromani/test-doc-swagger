@@ -1,7 +1,7 @@
 swagger: "2.0"
 info:
   version: "1.0.0"
-  title: "Auth API V2 teste"
+  title: "Auth API V2 teste 22"
 basePath: "/v1"
 schemes:
   - "https"
